@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/make-sdl-d
+makeasdl-d.so
+makeasdl-d.dylib
+makeasdl-d.dll
+makeasdl-d.a
+makeasdl-d.lib
+makeasdl-d-test-*
+*.exe
+*.o
+*.obj
+*.lst

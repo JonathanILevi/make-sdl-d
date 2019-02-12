@@ -1,0 +1,6 @@
+[submodule "DerelictSDL2"]
+	path = DerelictSDL2
+	url = https://github.com/DerelictOrg/DerelictSDL2.git
+[submodule "sdl-d"]
+	path = sdl-d
+	url = https://github.com/JonathanILevi/sdl-d.git

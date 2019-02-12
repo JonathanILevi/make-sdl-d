@@ -1,0 +1,6 @@
+name "make-sdl-d"
+description "D like SDL2 bindings"
+authors "Jonathan Levi"
+copyright "Copyright © 2019, Jonathan Levi"
+license "BSL-1.0"
+target	"library"
